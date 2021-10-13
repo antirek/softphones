@@ -3,6 +3,7 @@
 - [Blink SIP](http://icanblink.com/) - win, linux, mac, no g729
 - [Tinyphone](https://github.com/voiceip/tinyphone) - win
 - [Ekiga](https://www.ekiga.org/) - win, linux
+- [PhonerLite](https://lite.phoner.de/index_ru.htm) - win
 
 ## webphones
 
